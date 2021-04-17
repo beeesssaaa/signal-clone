@@ -11,5 +11,5 @@
 ## RUN
 ```zsh
 yarn install
-expo run
+expo start
 ```
